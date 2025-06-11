@@ -1,1 +1,125 @@
-# TU-Dortmund-Assignement
+Study of Ant Preferences for Sandwich
+This repository contains the data, analysis scripts, and visualization code for the study titled "A Study of Ant Preferences for Sandwich" conducted by Kundey Vishwanath in 2025.
+
+
+Table of Contents
+Introduction
+Research Questions
+Experimental Design
+Variables
+Statistical Analysis
+Key Findings
+Repository Structure
+How to Replicate
+Future Work
+Contributing
+License
+Contact
+Introduction
+This study investigates how different sandwich ingredients influence ant attraction. Specifically, it explores the effects of bread type (whole grain, Multigrain, Rye, White), topping (Ham with gherkins, peanut butter, Yeast spread), and the presence or absence of butter on the number of ants attracted to each sandwich. Understanding how ingredient combinations affect ant behavior can offer insights into food attractiveness and pest control strategies.
+
+
+
+
+Research Questions
+The primary objective of this analysis was to identify which factors or interactions significantly affect ant attraction. The study aimed to determine whether specific combinations of ingredients lead to significantly higher or lower ant counts.
+
+
+Experimental Design
+A controlled full-factorial experimental design was employed for this study.
+
+Factors:
+Bread Type: whole grain, Multigrain, Rye, White (4 levels) 
+
+Topping: Ham and gherkins, Peanut butter, Yeast spread (3 levels) 
+
+Butter Presence: Yes, No (2 levels) 
+
+Observations: Each unique sandwich combination (4 bread types × 3 topping types × 2 butter conditions = 24 unique formulations) was replicated twice, resulting in 48 total observations.
+
+Procedure: Sandwiches were prepared and placed near an anthill for a predetermined, fixed duration. The number of ants on or immediately surrounding each sandwich was then meticulously counted and recorded.
+
+Variables
+The dataset for analysis comprised four variables:
+
+antCount: The response variable, representing the number of ants observed on a sandwich. This is a quantitative, discrete variable measured on a ratio scale.
+
+bread: A categorical explanatory variable with four levels: whole grain, Multigrain, Rye, and White.
+topping: A categorical explanatory variable with three levels: Ham and gherkins, Peanut butter, and Yeast spread.
+butter: A binary categorical explanatory variable with two levels: Yes (butter present) and No (no butter).
+Statistical Analysis
+All statistical analyses were performed with a predetermined significance level (α) of 0.05.
+
+Descriptive Statistics: Initial descriptive statistics (mean, standard deviation, minimum, maximum antCount) were computed. The overall mean ant count was 43.50 ants, with a standard deviation of 15.15.
+
+Assumption Checks: Rigorous checks were performed on the model's residuals: 
+Normality of Residuals: Assessed using the Shapiro-Wilk test (p-value = 0.193), Normal Q-Q plot, and a histogram of residuals.
+
+Independence of Observations: Primarily ensured by the experimental design.
+
+Homogeneity of Variance: Evaluated using Levene's Test (Bread: p=0.666; Topping: p=0.535; Butter: p=0.970) and a residuals vs. fitted values plot.
+
+Three-Way Analysis of Variance (ANOVA): A three-way ANOVA was conducted to determine the statistical significance of main effects and interaction effects.
+
+Post-Hoc Analysis (Tukey HSD): Tukey Honestly Significant Difference (HSD) post-hoc tests were performed for factors with significant main effects and the significant three-way interaction.
+
+Key Findings
+Main Effects:
+Bread Type: Not statistically significant (F(3,24)=0.142, p=0.934).
+Topping: Highly statistically significant (F(2,24)=19.573, p&lt;0.001). Ham and gherkins significantly attracted more ants than both Peanut butter and Yeast spread.
+
+Butter: Highly statistically significant (F(1,24)=14.591, p&lt;0.001). Sandwiches with butter generally attracted significantly more ants than those without butter.
+
+Interaction Effects:
+Two-Way Interactions: None were statistically significant.
+Three-Way Interaction: A statistically significant three-way interaction was observed (bread:topping:butter, F(6,24)=4.113, p&lt;0.05). This indicates a complex, non-additive relationship where the effect of one factor on ant attraction is contingent on the specific combination of the other two.
+
+Highest Attraction: The combination of Multi Grain bread with Ham and gherkins and butter consistently emerged as a top performer (mean = 69.5 ants), representing a synergistic peak in ant attraction.
+Context-Dependent Butter Effect: The presence of butter does not universally increase ant attraction; its effect is highly conditional on the specific bread and topping. For example, for Rye bread with Peanut butter and Multi Grain bread with Yeast spread, ant count was higher without butter.
+
+Bread Type's Role: Even though bread type showed no significant main effect, its role in the three-way interaction was vital, with Multi Grain bread out-attracting others within the highly attractive "Ham and gherkins + butter" category.
+Repository Structure
+.
+├── TU dortmund report (7).pdf   # The full research report
+├── data/                       # Directory for raw and processed data (if applicable)
+│   └── ant_preference_data.csv # Example: Placeholder for the dataset used in the study
+├── scripts/                    # Directory for analysis scripts
+│   └── ant_analysis.py         # Example: Python script for statistical analysis and visualizations
+└── README.md                   # This README file
+(Note: The data/ and scripts/ directories with example files are placeholders. You should populate them with the actual data and code from your study.)
+
+How to Replicate
+To replicate the analysis and findings from this study:
+
+Clone the repository:
+Bash
+
+git clone https://github.com/YourUsername/ant-preferences-study.git
+cd ant-preferences-study
+Install dependencies: (Assuming Python and common data science libraries)
+Bash
+
+pip install pandas numpy scipy statsmodels matplotlib seaborn
+(Adjust dependencies based on the actual libraries used in your scripts.)
+Run the analysis script:
+Bash
+
+python scripts/ant_analysis.py
+This script will process the data, perform the statistical tests, and generate the figures and tables presented in the report.
+Future Work
+The study suggests several avenues for future research:
+
+Exploring the underlying chemical or nutritional factors responsible for specific interactions.
+Investigating different concentrations of ingredients.
+Examining the addition of other common food additives.
+Contributing
+Contributions are welcome! If you find any issues, have suggestions for improvements, or want to extend the analysis, please open an issue or submit a pull request.
+
+License
+This project is licensed under the [Choose a License, e.g., MIT License] - see the LICENSE.md file for details. (You will need to create a LICENSE.md file in your repository.)
+
+Contact
+For any questions or inquiries, please contact:
+Kundey Vishwanath
+Email: [Your Email Address]
+University: TU Dortmund University
