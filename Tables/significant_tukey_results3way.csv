@@ -1,0 +1,12 @@
+,group1,group2,meandiff,p-adj,lower,upper,reject
+23,Multi Grain | Ham and gherkins | yes,Multi Grain | Peanut butter | no,-49.0,0.0059,-88.7331,-9.2669,True
+41,Multi Grain | Ham and gherkins | yes,Whole Grain | Peanut butter | no,-47.0,0.0095,-86.7331,-7.2669,True
+55,Multi Grain | Peanut butter | no,White | Ham and gherkins | yes,45.5,0.0135,5.7669,85.2331,True
+37,Multi Grain | Ham and gherkins | yes,White | Yeast spread | no,-45.0,0.0152,-84.7331,-5.2669,True
+31,Multi Grain | Ham and gherkins | yes,Rye | Yeast spread | no,-44.5,0.0171,-84.2331,-4.7669,True
+227,White | Ham and gherkins | yes,Whole Grain | Peanut butter | no,-43.5,0.0215,-83.2331,-3.7669,True
+26,Multi Grain | Ham and gherkins | yes,Multi Grain | Yeast spread | yes,-42.5,0.027,-82.2331,-2.7669,True
+61,Multi Grain | Peanut butter | no,Whole Grain | Ham and gherkins | yes,42.0,0.0302,2.2669,81.7331,True
+223,White | Ham and gherkins | yes,White | Yeast spread | no,-41.5,0.0338,-81.2331,-1.7669,True
+187,Rye | Yeast spread | no,White | Ham and gherkins | yes,41.0,0.0378,1.2669,80.7331,True
+266,Whole Grain | Ham and gherkins | yes,Whole Grain | Peanut butter | no,-40.0,0.0472,-79.7331,-0.2669,True

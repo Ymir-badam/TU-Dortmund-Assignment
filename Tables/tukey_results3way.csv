@@ -1,0 +1,277 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Multi Grain | Ham and gherkins | no,Multi Grain | Ham and gherkins | yes,22.0,0.8075,-17.7331,61.7331,False
+Multi Grain | Ham and gherkins | no,Multi Grain | Peanut butter | no,-27.0,0.4979,-66.7331,12.7331,False
+Multi Grain | Ham and gherkins | no,Multi Grain | Peanut butter | yes,6.0,1.0,-33.7331,45.7331,False
+Multi Grain | Ham and gherkins | no,Multi Grain | Yeast spread | no,-7.5,1.0,-47.2331,32.2331,False
+Multi Grain | Ham and gherkins | no,Multi Grain | Yeast spread | yes,-20.5,0.8789,-60.2331,19.2331,False
+Multi Grain | Ham and gherkins | no,Rye | Ham and gherkins | no,2.0,1.0,-37.7331,41.7331,False
+Multi Grain | Ham and gherkins | no,Rye | Ham and gherkins | yes,2.0,1.0,-37.7331,41.7331,False
+Multi Grain | Ham and gherkins | no,Rye | Peanut butter | no,5.5,1.0,-34.2331,45.2331,False
+Multi Grain | Ham and gherkins | no,Rye | Peanut butter | yes,-8.5,1.0,-48.2331,31.2331,False
+Multi Grain | Ham and gherkins | no,Rye | Yeast spread | no,-22.5,0.7803,-62.2331,17.2331,False
+Multi Grain | Ham and gherkins | no,Rye | Yeast spread | yes,2.0,1.0,-37.7331,41.7331,False
+Multi Grain | Ham and gherkins | no,White | Ham and gherkins | no,1.5,1.0,-38.2331,41.2331,False
+Multi Grain | Ham and gherkins | no,White | Ham and gherkins | yes,18.5,0.9456,-21.2331,58.2331,False
+Multi Grain | Ham and gherkins | no,White | Peanut butter | no,-5.5,1.0,-45.2331,34.2331,False
+Multi Grain | Ham and gherkins | no,White | Peanut butter | yes,-9.0,1.0,-48.7331,30.7331,False
+Multi Grain | Ham and gherkins | no,White | Yeast spread | no,-23.0,0.7516,-62.7331,16.7331,False
+Multi Grain | Ham and gherkins | no,White | Yeast spread | yes,-14.0,0.9971,-53.7331,25.7331,False
+Multi Grain | Ham and gherkins | no,Whole Grain | Ham and gherkins | no,3.0,1.0,-36.7331,42.7331,False
+Multi Grain | Ham and gherkins | no,Whole Grain | Ham and gherkins | yes,15.0,0.9934,-24.7331,54.7331,False
+Multi Grain | Ham and gherkins | no,Whole Grain | Peanut butter | no,-25.0,0.6268,-64.7331,14.7331,False
+Multi Grain | Ham and gherkins | no,Whole Grain | Peanut butter | yes,6.5,1.0,-33.2331,46.2331,False
+Multi Grain | Ham and gherkins | no,Whole Grain | Yeast spread | no,-14.0,0.9971,-53.7331,25.7331,False
+Multi Grain | Ham and gherkins | no,Whole Grain | Yeast spread | yes,-3.5,1.0,-43.2331,36.2331,False
+Multi Grain | Ham and gherkins | yes,Multi Grain | Peanut butter | no,-49.0,0.0059,-88.7331,-9.2669,True
+Multi Grain | Ham and gherkins | yes,Multi Grain | Peanut butter | yes,-16.0,0.9865,-55.7331,23.7331,False
+Multi Grain | Ham and gherkins | yes,Multi Grain | Yeast spread | no,-29.5,0.3507,-69.2331,10.2331,False
+Multi Grain | Ham and gherkins | yes,Multi Grain | Yeast spread | yes,-42.5,0.027,-82.2331,-2.7669,True
+Multi Grain | Ham and gherkins | yes,Rye | Ham and gherkins | no,-20.0,0.8987,-59.7331,19.7331,False
+Multi Grain | Ham and gherkins | yes,Rye | Ham and gherkins | yes,-20.0,0.8987,-59.7331,19.7331,False
+Multi Grain | Ham and gherkins | yes,Rye | Peanut butter | no,-16.5,0.9814,-56.2331,23.2331,False
+Multi Grain | Ham and gherkins | yes,Rye | Peanut butter | yes,-30.5,0.2996,-70.2331,9.2331,False
+Multi Grain | Ham and gherkins | yes,Rye | Yeast spread | no,-44.5,0.0171,-84.2331,-4.7669,True
+Multi Grain | Ham and gherkins | yes,Rye | Yeast spread | yes,-20.0,0.8987,-59.7331,19.7331,False
+Multi Grain | Ham and gherkins | yes,White | Ham and gherkins | no,-20.5,0.8789,-60.2331,19.2331,False
+Multi Grain | Ham and gherkins | yes,White | Ham and gherkins | yes,-3.5,1.0,-43.2331,36.2331,False
+Multi Grain | Ham and gherkins | yes,White | Peanut butter | no,-27.5,0.4666,-67.2331,12.2331,False
+Multi Grain | Ham and gherkins | yes,White | Peanut butter | yes,-31.0,0.276,-70.7331,8.7331,False
+Multi Grain | Ham and gherkins | yes,White | Yeast spread | no,-45.0,0.0152,-84.7331,-5.2669,True
+Multi Grain | Ham and gherkins | yes,White | Yeast spread | yes,-36.0,0.1095,-75.7331,3.7331,False
+Multi Grain | Ham and gherkins | yes,Whole Grain | Ham and gherkins | no,-19.0,0.9321,-58.7331,20.7331,False
+Multi Grain | Ham and gherkins | yes,Whole Grain | Ham and gherkins | yes,-7.0,1.0,-46.7331,32.7331,False
+Multi Grain | Ham and gherkins | yes,Whole Grain | Peanut butter | no,-47.0,0.0095,-86.7331,-7.2669,True
+Multi Grain | Ham and gherkins | yes,Whole Grain | Peanut butter | yes,-15.5,0.9905,-55.2331,24.2331,False
+Multi Grain | Ham and gherkins | yes,Whole Grain | Yeast spread | no,-36.0,0.1095,-75.7331,3.7331,False
+Multi Grain | Ham and gherkins | yes,Whole Grain | Yeast spread | yes,-25.5,0.5944,-65.2331,14.2331,False
+Multi Grain | Peanut butter | no,Multi Grain | Peanut butter | yes,33.0,0.1947,-6.7331,72.7331,False
+Multi Grain | Peanut butter | no,Multi Grain | Yeast spread | no,19.5,0.9164,-20.2331,59.2331,False
+Multi Grain | Peanut butter | no,Multi Grain | Yeast spread | yes,6.5,1.0,-33.2331,46.2331,False
+Multi Grain | Peanut butter | no,Rye | Ham and gherkins | no,29.0,0.3781,-10.7331,68.7331,False
+Multi Grain | Peanut butter | no,Rye | Ham and gherkins | yes,29.0,0.3781,-10.7331,68.7331,False
+Multi Grain | Peanut butter | no,Rye | Peanut butter | no,32.5,0.2131,-7.2331,72.2331,False
+Multi Grain | Peanut butter | no,Rye | Peanut butter | yes,18.5,0.9456,-21.2331,58.2331,False
+Multi Grain | Peanut butter | no,Rye | Yeast spread | no,4.5,1.0,-35.2331,44.2331,False
+Multi Grain | Peanut butter | no,Rye | Yeast spread | yes,29.0,0.3781,-10.7331,68.7331,False
+Multi Grain | Peanut butter | no,White | Ham and gherkins | no,28.5,0.4066,-11.2331,68.2331,False
+Multi Grain | Peanut butter | no,White | Ham and gherkins | yes,45.5,0.0135,5.7669,85.2331,True
+Multi Grain | Peanut butter | no,White | Peanut butter | no,21.5,0.8332,-18.2331,61.2331,False
+Multi Grain | Peanut butter | no,White | Peanut butter | yes,18.0,0.9572,-21.7331,57.7331,False
+Multi Grain | Peanut butter | no,White | Yeast spread | no,4.0,1.0,-35.7331,43.7331,False
+Multi Grain | Peanut butter | no,White | Yeast spread | yes,13.0,0.9989,-26.7331,52.7331,False
+Multi Grain | Peanut butter | no,Whole Grain | Ham and gherkins | no,30.0,0.3245,-9.7331,69.7331,False
+Multi Grain | Peanut butter | no,Whole Grain | Ham and gherkins | yes,42.0,0.0302,2.2669,81.7331,True
+Multi Grain | Peanut butter | no,Whole Grain | Peanut butter | no,2.0,1.0,-37.7331,41.7331,False
+Multi Grain | Peanut butter | no,Whole Grain | Peanut butter | yes,33.5,0.1776,-6.2331,73.2331,False
+Multi Grain | Peanut butter | no,Whole Grain | Yeast spread | no,13.0,0.9989,-26.7331,52.7331,False
+Multi Grain | Peanut butter | no,Whole Grain | Yeast spread | yes,23.5,0.7216,-16.2331,63.2331,False
+Multi Grain | Peanut butter | yes,Multi Grain | Yeast spread | no,-13.5,0.9982,-53.2331,26.2331,False
+Multi Grain | Peanut butter | yes,Multi Grain | Yeast spread | yes,-26.5,0.5297,-66.2331,13.2331,False
+Multi Grain | Peanut butter | yes,Rye | Ham and gherkins | no,-4.0,1.0,-43.7331,35.7331,False
+Multi Grain | Peanut butter | yes,Rye | Ham and gherkins | yes,-4.0,1.0,-43.7331,35.7331,False
+Multi Grain | Peanut butter | yes,Rye | Peanut butter | no,-0.5,1.0,-40.2331,39.2331,False
+Multi Grain | Peanut butter | yes,Rye | Peanut butter | yes,-14.5,0.9956,-54.2331,25.2331,False
+Multi Grain | Peanut butter | yes,Rye | Yeast spread | no,-28.5,0.4066,-68.2331,11.2331,False
+Multi Grain | Peanut butter | yes,Rye | Yeast spread | yes,-4.0,1.0,-43.7331,35.7331,False
+Multi Grain | Peanut butter | yes,White | Ham and gherkins | no,-4.5,1.0,-44.2331,35.2331,False
+Multi Grain | Peanut butter | yes,White | Ham and gherkins | yes,12.5,0.9994,-27.2331,52.2331,False
+Multi Grain | Peanut butter | yes,White | Peanut butter | no,-11.5,0.9998,-51.2331,28.2331,False
+Multi Grain | Peanut butter | yes,White | Peanut butter | yes,-15.0,0.9934,-54.7331,24.7331,False
+Multi Grain | Peanut butter | yes,White | Yeast spread | no,-29.0,0.3781,-68.7331,10.7331,False
+Multi Grain | Peanut butter | yes,White | Yeast spread | yes,-20.0,0.8987,-59.7331,19.7331,False
+Multi Grain | Peanut butter | yes,Whole Grain | Ham and gherkins | no,-3.0,1.0,-42.7331,36.7331,False
+Multi Grain | Peanut butter | yes,Whole Grain | Ham and gherkins | yes,9.0,1.0,-30.7331,48.7331,False
+Multi Grain | Peanut butter | yes,Whole Grain | Peanut butter | no,-31.0,0.276,-70.7331,8.7331,False
+Multi Grain | Peanut butter | yes,Whole Grain | Peanut butter | yes,0.5,1.0,-39.2331,40.2331,False
+Multi Grain | Peanut butter | yes,Whole Grain | Yeast spread | no,-20.0,0.8987,-59.7331,19.7331,False
+Multi Grain | Peanut butter | yes,Whole Grain | Yeast spread | yes,-9.5,1.0,-49.2331,30.2331,False
+Multi Grain | Yeast spread | no,Multi Grain | Yeast spread | yes,-13.0,0.9989,-52.7331,26.7331,False
+Multi Grain | Yeast spread | no,Rye | Ham and gherkins | no,9.5,1.0,-30.2331,49.2331,False
+Multi Grain | Yeast spread | no,Rye | Ham and gherkins | yes,9.5,1.0,-30.2331,49.2331,False
+Multi Grain | Yeast spread | no,Rye | Peanut butter | no,13.0,0.9989,-26.7331,52.7331,False
+Multi Grain | Yeast spread | no,Rye | Peanut butter | yes,-1.0,1.0,-40.7331,38.7331,False
+Multi Grain | Yeast spread | no,Rye | Yeast spread | no,-15.0,0.9934,-54.7331,24.7331,False
+Multi Grain | Yeast spread | no,Rye | Yeast spread | yes,9.5,1.0,-30.2331,49.2331,False
+Multi Grain | Yeast spread | no,White | Ham and gherkins | no,9.0,1.0,-30.7331,48.7331,False
+Multi Grain | Yeast spread | no,White | Ham and gherkins | yes,26.0,0.5619,-13.7331,65.7331,False
+Multi Grain | Yeast spread | no,White | Peanut butter | no,2.0,1.0,-37.7331,41.7331,False
+Multi Grain | Yeast spread | no,White | Peanut butter | yes,-1.5,1.0,-41.2331,38.2331,False
+Multi Grain | Yeast spread | no,White | Yeast spread | no,-15.5,0.9905,-55.2331,24.2331,False
+Multi Grain | Yeast spread | no,White | Yeast spread | yes,-6.5,1.0,-46.2331,33.2331,False
+Multi Grain | Yeast spread | no,Whole Grain | Ham and gherkins | no,10.5,1.0,-29.2331,50.2331,False
+Multi Grain | Yeast spread | no,Whole Grain | Ham and gherkins | yes,22.5,0.7803,-17.2331,62.2331,False
+Multi Grain | Yeast spread | no,Whole Grain | Peanut butter | no,-17.5,0.9669,-57.2331,22.2331,False
+Multi Grain | Yeast spread | no,Whole Grain | Peanut butter | yes,14.0,0.9971,-25.7331,53.7331,False
+Multi Grain | Yeast spread | no,Whole Grain | Yeast spread | no,-6.5,1.0,-46.2331,33.2331,False
+Multi Grain | Yeast spread | no,Whole Grain | Yeast spread | yes,4.0,1.0,-35.7331,43.7331,False
+Multi Grain | Yeast spread | yes,Rye | Ham and gherkins | no,22.5,0.7803,-17.2331,62.2331,False
+Multi Grain | Yeast spread | yes,Rye | Ham and gherkins | yes,22.5,0.7803,-17.2331,62.2331,False
+Multi Grain | Yeast spread | yes,Rye | Peanut butter | no,26.0,0.5619,-13.7331,65.7331,False
+Multi Grain | Yeast spread | yes,Rye | Peanut butter | yes,12.0,0.9996,-27.7331,51.7331,False
+Multi Grain | Yeast spread | yes,Rye | Yeast spread | no,-2.0,1.0,-41.7331,37.7331,False
+Multi Grain | Yeast spread | yes,Rye | Yeast spread | yes,22.5,0.7803,-17.2331,62.2331,False
+Multi Grain | Yeast spread | yes,White | Ham and gherkins | no,22.0,0.8075,-17.7331,61.7331,False
+Multi Grain | Yeast spread | yes,White | Ham and gherkins | yes,39.0,0.0586,-0.7331,78.7331,False
+Multi Grain | Yeast spread | yes,White | Peanut butter | no,15.0,0.9934,-24.7331,54.7331,False
+Multi Grain | Yeast spread | yes,White | Peanut butter | yes,11.5,0.9998,-28.2331,51.2331,False
+Multi Grain | Yeast spread | yes,White | Yeast spread | no,-2.5,1.0,-42.2331,37.2331,False
+Multi Grain | Yeast spread | yes,White | Yeast spread | yes,6.5,1.0,-33.2331,46.2331,False
+Multi Grain | Yeast spread | yes,Whole Grain | Ham and gherkins | no,23.5,0.7216,-16.2331,63.2331,False
+Multi Grain | Yeast spread | yes,Whole Grain | Ham and gherkins | yes,35.5,0.121,-4.2331,75.2331,False
+Multi Grain | Yeast spread | yes,Whole Grain | Peanut butter | no,-4.5,1.0,-44.2331,35.2331,False
+Multi Grain | Yeast spread | yes,Whole Grain | Peanut butter | yes,27.0,0.4979,-12.7331,66.7331,False
+Multi Grain | Yeast spread | yes,Whole Grain | Yeast spread | no,6.5,1.0,-33.2331,46.2331,False
+Multi Grain | Yeast spread | yes,Whole Grain | Yeast spread | yes,17.0,0.975,-22.7331,56.7331,False
+Rye | Ham and gherkins | no,Rye | Ham and gherkins | yes,0.0,1.0,-39.7331,39.7331,False
+Rye | Ham and gherkins | no,Rye | Peanut butter | no,3.5,1.0,-36.2331,43.2331,False
+Rye | Ham and gherkins | no,Rye | Peanut butter | yes,-10.5,1.0,-50.2331,29.2331,False
+Rye | Ham and gherkins | no,Rye | Yeast spread | no,-24.5,0.659,-64.2331,15.2331,False
+Rye | Ham and gherkins | no,Rye | Yeast spread | yes,0.0,1.0,-39.7331,39.7331,False
+Rye | Ham and gherkins | no,White | Ham and gherkins | no,-0.5,1.0,-40.2331,39.2331,False
+Rye | Ham and gherkins | no,White | Ham and gherkins | yes,16.5,0.9814,-23.2331,56.2331,False
+Rye | Ham and gherkins | no,White | Peanut butter | no,-7.5,1.0,-47.2331,32.2331,False
+Rye | Ham and gherkins | no,White | Peanut butter | yes,-11.0,0.9999,-50.7331,28.7331,False
+Rye | Ham and gherkins | no,White | Yeast spread | no,-25.0,0.6268,-64.7331,14.7331,False
+Rye | Ham and gherkins | no,White | Yeast spread | yes,-16.0,0.9865,-55.7331,23.7331,False
+Rye | Ham and gherkins | no,Whole Grain | Ham and gherkins | no,1.0,1.0,-38.7331,40.7331,False
+Rye | Ham and gherkins | no,Whole Grain | Ham and gherkins | yes,13.0,0.9989,-26.7331,52.7331,False
+Rye | Ham and gherkins | no,Whole Grain | Peanut butter | no,-27.0,0.4979,-66.7331,12.7331,False
+Rye | Ham and gherkins | no,Whole Grain | Peanut butter | yes,4.5,1.0,-35.2331,44.2331,False
+Rye | Ham and gherkins | no,Whole Grain | Yeast spread | no,-16.0,0.9865,-55.7331,23.7331,False
+Rye | Ham and gherkins | no,Whole Grain | Yeast spread | yes,-5.5,1.0,-45.2331,34.2331,False
+Rye | Ham and gherkins | yes,Rye | Peanut butter | no,3.5,1.0,-36.2331,43.2331,False
+Rye | Ham and gherkins | yes,Rye | Peanut butter | yes,-10.5,1.0,-50.2331,29.2331,False
+Rye | Ham and gherkins | yes,Rye | Yeast spread | no,-24.5,0.659,-64.2331,15.2331,False
+Rye | Ham and gherkins | yes,Rye | Yeast spread | yes,0.0,1.0,-39.7331,39.7331,False
+Rye | Ham and gherkins | yes,White | Ham and gherkins | no,-0.5,1.0,-40.2331,39.2331,False
+Rye | Ham and gherkins | yes,White | Ham and gherkins | yes,16.5,0.9814,-23.2331,56.2331,False
+Rye | Ham and gherkins | yes,White | Peanut butter | no,-7.5,1.0,-47.2331,32.2331,False
+Rye | Ham and gherkins | yes,White | Peanut butter | yes,-11.0,0.9999,-50.7331,28.7331,False
+Rye | Ham and gherkins | yes,White | Yeast spread | no,-25.0,0.6268,-64.7331,14.7331,False
+Rye | Ham and gherkins | yes,White | Yeast spread | yes,-16.0,0.9865,-55.7331,23.7331,False
+Rye | Ham and gherkins | yes,Whole Grain | Ham and gherkins | no,1.0,1.0,-38.7331,40.7331,False
+Rye | Ham and gherkins | yes,Whole Grain | Ham and gherkins | yes,13.0,0.9989,-26.7331,52.7331,False
+Rye | Ham and gherkins | yes,Whole Grain | Peanut butter | no,-27.0,0.4979,-66.7331,12.7331,False
+Rye | Ham and gherkins | yes,Whole Grain | Peanut butter | yes,4.5,1.0,-35.2331,44.2331,False
+Rye | Ham and gherkins | yes,Whole Grain | Yeast spread | no,-16.0,0.9865,-55.7331,23.7331,False
+Rye | Ham and gherkins | yes,Whole Grain | Yeast spread | yes,-5.5,1.0,-45.2331,34.2331,False
+Rye | Peanut butter | no,Rye | Peanut butter | yes,-14.0,0.9971,-53.7331,25.7331,False
+Rye | Peanut butter | no,Rye | Yeast spread | no,-28.0,0.4362,-67.7331,11.7331,False
+Rye | Peanut butter | no,Rye | Yeast spread | yes,-3.5,1.0,-43.2331,36.2331,False
+Rye | Peanut butter | no,White | Ham and gherkins | no,-4.0,1.0,-43.7331,35.7331,False
+Rye | Peanut butter | no,White | Ham and gherkins | yes,13.0,0.9989,-26.7331,52.7331,False
+Rye | Peanut butter | no,White | Peanut butter | no,-11.0,0.9999,-50.7331,28.7331,False
+Rye | Peanut butter | no,White | Peanut butter | yes,-14.5,0.9956,-54.2331,25.2331,False
+Rye | Peanut butter | no,White | Yeast spread | no,-28.5,0.4066,-68.2331,11.2331,False
+Rye | Peanut butter | no,White | Yeast spread | yes,-19.5,0.9164,-59.2331,20.2331,False
+Rye | Peanut butter | no,Whole Grain | Ham and gherkins | no,-2.5,1.0,-42.2331,37.2331,False
+Rye | Peanut butter | no,Whole Grain | Ham and gherkins | yes,9.5,1.0,-30.2331,49.2331,False
+Rye | Peanut butter | no,Whole Grain | Peanut butter | no,-30.5,0.2996,-70.2331,9.2331,False
+Rye | Peanut butter | no,Whole Grain | Peanut butter | yes,1.0,1.0,-38.7331,40.7331,False
+Rye | Peanut butter | no,Whole Grain | Yeast spread | no,-19.5,0.9164,-59.2331,20.2331,False
+Rye | Peanut butter | no,Whole Grain | Yeast spread | yes,-9.0,1.0,-48.7331,30.7331,False
+Rye | Peanut butter | yes,Rye | Yeast spread | no,-14.0,0.9971,-53.7331,25.7331,False
+Rye | Peanut butter | yes,Rye | Yeast spread | yes,10.5,1.0,-29.2331,50.2331,False
+Rye | Peanut butter | yes,White | Ham and gherkins | no,10.0,1.0,-29.7331,49.7331,False
+Rye | Peanut butter | yes,White | Ham and gherkins | yes,27.0,0.4979,-12.7331,66.7331,False
+Rye | Peanut butter | yes,White | Peanut butter | no,3.0,1.0,-36.7331,42.7331,False
+Rye | Peanut butter | yes,White | Peanut butter | yes,-0.5,1.0,-40.2331,39.2331,False
+Rye | Peanut butter | yes,White | Yeast spread | no,-14.5,0.9956,-54.2331,25.2331,False
+Rye | Peanut butter | yes,White | Yeast spread | yes,-5.5,1.0,-45.2331,34.2331,False
+Rye | Peanut butter | yes,Whole Grain | Ham and gherkins | no,11.5,0.9998,-28.2331,51.2331,False
+Rye | Peanut butter | yes,Whole Grain | Ham and gherkins | yes,23.5,0.7216,-16.2331,63.2331,False
+Rye | Peanut butter | yes,Whole Grain | Peanut butter | no,-16.5,0.9814,-56.2331,23.2331,False
+Rye | Peanut butter | yes,Whole Grain | Peanut butter | yes,15.0,0.9934,-24.7331,54.7331,False
+Rye | Peanut butter | yes,Whole Grain | Yeast spread | no,-5.5,1.0,-45.2331,34.2331,False
+Rye | Peanut butter | yes,Whole Grain | Yeast spread | yes,5.0,1.0,-34.7331,44.7331,False
+Rye | Yeast spread | no,Rye | Yeast spread | yes,24.5,0.659,-15.2331,64.2331,False
+Rye | Yeast spread | no,White | Ham and gherkins | no,24.0,0.6907,-15.7331,63.7331,False
+Rye | Yeast spread | no,White | Ham and gherkins | yes,41.0,0.0378,1.2669,80.7331,True
+Rye | Yeast spread | no,White | Peanut butter | no,17.0,0.975,-22.7331,56.7331,False
+Rye | Yeast spread | no,White | Peanut butter | yes,13.5,0.9982,-26.2331,53.2331,False
+Rye | Yeast spread | no,White | Yeast spread | no,-0.5,1.0,-40.2331,39.2331,False
+Rye | Yeast spread | no,White | Yeast spread | yes,8.5,1.0,-31.2331,48.2331,False
+Rye | Yeast spread | no,Whole Grain | Ham and gherkins | no,25.5,0.5944,-14.2331,65.2331,False
+Rye | Yeast spread | no,Whole Grain | Ham and gherkins | yes,37.5,0.0805,-2.2331,77.2331,False
+Rye | Yeast spread | no,Whole Grain | Peanut butter | no,-2.5,1.0,-42.2331,37.2331,False
+Rye | Yeast spread | no,Whole Grain | Peanut butter | yes,29.0,0.3781,-10.7331,68.7331,False
+Rye | Yeast spread | no,Whole Grain | Yeast spread | no,8.5,1.0,-31.2331,48.2331,False
+Rye | Yeast spread | no,Whole Grain | Yeast spread | yes,19.0,0.9321,-20.7331,58.7331,False
+Rye | Yeast spread | yes,White | Ham and gherkins | no,-0.5,1.0,-40.2331,39.2331,False
+Rye | Yeast spread | yes,White | Ham and gherkins | yes,16.5,0.9814,-23.2331,56.2331,False
+Rye | Yeast spread | yes,White | Peanut butter | no,-7.5,1.0,-47.2331,32.2331,False
+Rye | Yeast spread | yes,White | Peanut butter | yes,-11.0,0.9999,-50.7331,28.7331,False
+Rye | Yeast spread | yes,White | Yeast spread | no,-25.0,0.6268,-64.7331,14.7331,False
+Rye | Yeast spread | yes,White | Yeast spread | yes,-16.0,0.9865,-55.7331,23.7331,False
+Rye | Yeast spread | yes,Whole Grain | Ham and gherkins | no,1.0,1.0,-38.7331,40.7331,False
+Rye | Yeast spread | yes,Whole Grain | Ham and gherkins | yes,13.0,0.9989,-26.7331,52.7331,False
+Rye | Yeast spread | yes,Whole Grain | Peanut butter | no,-27.0,0.4979,-66.7331,12.7331,False
+Rye | Yeast spread | yes,Whole Grain | Peanut butter | yes,4.5,1.0,-35.2331,44.2331,False
+Rye | Yeast spread | yes,Whole Grain | Yeast spread | no,-16.0,0.9865,-55.7331,23.7331,False
+Rye | Yeast spread | yes,Whole Grain | Yeast spread | yes,-5.5,1.0,-45.2331,34.2331,False
+White | Ham and gherkins | no,White | Ham and gherkins | yes,17.0,0.975,-22.7331,56.7331,False
+White | Ham and gherkins | no,White | Peanut butter | no,-7.0,1.0,-46.7331,32.7331,False
+White | Ham and gherkins | no,White | Peanut butter | yes,-10.5,1.0,-50.2331,29.2331,False
+White | Ham and gherkins | no,White | Yeast spread | no,-24.5,0.659,-64.2331,15.2331,False
+White | Ham and gherkins | no,White | Yeast spread | yes,-15.5,0.9905,-55.2331,24.2331,False
+White | Ham and gherkins | no,Whole Grain | Ham and gherkins | no,1.5,1.0,-38.2331,41.2331,False
+White | Ham and gherkins | no,Whole Grain | Ham and gherkins | yes,13.5,0.9982,-26.2331,53.2331,False
+White | Ham and gherkins | no,Whole Grain | Peanut butter | no,-26.5,0.5297,-66.2331,13.2331,False
+White | Ham and gherkins | no,Whole Grain | Peanut butter | yes,5.0,1.0,-34.7331,44.7331,False
+White | Ham and gherkins | no,Whole Grain | Yeast spread | no,-15.5,0.9905,-55.2331,24.2331,False
+White | Ham and gherkins | no,Whole Grain | Yeast spread | yes,-5.0,1.0,-44.7331,34.7331,False
+White | Ham and gherkins | yes,White | Peanut butter | no,-24.0,0.6907,-63.7331,15.7331,False
+White | Ham and gherkins | yes,White | Peanut butter | yes,-27.5,0.4666,-67.2331,12.2331,False
+White | Ham and gherkins | yes,White | Yeast spread | no,-41.5,0.0338,-81.2331,-1.7669,True
+White | Ham and gherkins | yes,White | Yeast spread | yes,-32.5,0.2131,-72.2331,7.2331,False
+White | Ham and gherkins | yes,Whole Grain | Ham and gherkins | no,-15.5,0.9905,-55.2331,24.2331,False
+White | Ham and gherkins | yes,Whole Grain | Ham and gherkins | yes,-3.5,1.0,-43.2331,36.2331,False
+White | Ham and gherkins | yes,Whole Grain | Peanut butter | no,-43.5,0.0215,-83.2331,-3.7669,True
+White | Ham and gherkins | yes,Whole Grain | Peanut butter | yes,-12.0,0.9996,-51.7331,27.7331,False
+White | Ham and gherkins | yes,Whole Grain | Yeast spread | no,-32.5,0.2131,-72.2331,7.2331,False
+White | Ham and gherkins | yes,Whole Grain | Yeast spread | yes,-22.0,0.8075,-61.7331,17.7331,False
+White | Peanut butter | no,White | Peanut butter | yes,-3.5,1.0,-43.2331,36.2331,False
+White | Peanut butter | no,White | Yeast spread | no,-17.5,0.9669,-57.2331,22.2331,False
+White | Peanut butter | no,White | Yeast spread | yes,-8.5,1.0,-48.2331,31.2331,False
+White | Peanut butter | no,Whole Grain | Ham and gherkins | no,8.5,1.0,-31.2331,48.2331,False
+White | Peanut butter | no,Whole Grain | Ham and gherkins | yes,20.5,0.8789,-19.2331,60.2331,False
+White | Peanut butter | no,Whole Grain | Peanut butter | no,-19.5,0.9164,-59.2331,20.2331,False
+White | Peanut butter | no,Whole Grain | Peanut butter | yes,12.0,0.9996,-27.7331,51.7331,False
+White | Peanut butter | no,Whole Grain | Yeast spread | no,-8.5,1.0,-48.2331,31.2331,False
+White | Peanut butter | no,Whole Grain | Yeast spread | yes,2.0,1.0,-37.7331,41.7331,False
+White | Peanut butter | yes,White | Yeast spread | no,-14.0,0.9971,-53.7331,25.7331,False
+White | Peanut butter | yes,White | Yeast spread | yes,-5.0,1.0,-44.7331,34.7331,False
+White | Peanut butter | yes,Whole Grain | Ham and gherkins | no,12.0,0.9996,-27.7331,51.7331,False
+White | Peanut butter | yes,Whole Grain | Ham and gherkins | yes,24.0,0.6907,-15.7331,63.7331,False
+White | Peanut butter | yes,Whole Grain | Peanut butter | no,-16.0,0.9865,-55.7331,23.7331,False
+White | Peanut butter | yes,Whole Grain | Peanut butter | yes,15.5,0.9905,-24.2331,55.2331,False
+White | Peanut butter | yes,Whole Grain | Yeast spread | no,-5.0,1.0,-44.7331,34.7331,False
+White | Peanut butter | yes,Whole Grain | Yeast spread | yes,5.5,1.0,-34.2331,45.2331,False
+White | Yeast spread | no,White | Yeast spread | yes,9.0,1.0,-30.7331,48.7331,False
+White | Yeast spread | no,Whole Grain | Ham and gherkins | no,26.0,0.5619,-13.7331,65.7331,False
+White | Yeast spread | no,Whole Grain | Ham and gherkins | yes,38.0,0.0725,-1.7331,77.7331,False
+White | Yeast spread | no,Whole Grain | Peanut butter | no,-2.0,1.0,-41.7331,37.7331,False
+White | Yeast spread | no,Whole Grain | Peanut butter | yes,29.5,0.3507,-10.2331,69.2331,False
+White | Yeast spread | no,Whole Grain | Yeast spread | no,9.0,1.0,-30.7331,48.7331,False
+White | Yeast spread | no,Whole Grain | Yeast spread | yes,19.5,0.9164,-20.2331,59.2331,False
+White | Yeast spread | yes,Whole Grain | Ham and gherkins | no,17.0,0.975,-22.7331,56.7331,False
+White | Yeast spread | yes,Whole Grain | Ham and gherkins | yes,29.0,0.3781,-10.7331,68.7331,False
+White | Yeast spread | yes,Whole Grain | Peanut butter | no,-11.0,0.9999,-50.7331,28.7331,False
+White | Yeast spread | yes,Whole Grain | Peanut butter | yes,20.5,0.8789,-19.2331,60.2331,False
+White | Yeast spread | yes,Whole Grain | Yeast spread | no,0.0,1.0,-39.7331,39.7331,False
+White | Yeast spread | yes,Whole Grain | Yeast spread | yes,10.5,1.0,-29.2331,50.2331,False
+Whole Grain | Ham and gherkins | no,Whole Grain | Ham and gherkins | yes,12.0,0.9996,-27.7331,51.7331,False
+Whole Grain | Ham and gherkins | no,Whole Grain | Peanut butter | no,-28.0,0.4362,-67.7331,11.7331,False
+Whole Grain | Ham and gherkins | no,Whole Grain | Peanut butter | yes,3.5,1.0,-36.2331,43.2331,False
+Whole Grain | Ham and gherkins | no,Whole Grain | Yeast spread | no,-17.0,0.975,-56.7331,22.7331,False
+Whole Grain | Ham and gherkins | no,Whole Grain | Yeast spread | yes,-6.5,1.0,-46.2331,33.2331,False
+Whole Grain | Ham and gherkins | yes,Whole Grain | Peanut butter | no,-40.0,0.0472,-79.7331,-0.2669,True
+Whole Grain | Ham and gherkins | yes,Whole Grain | Peanut butter | yes,-8.5,1.0,-48.2331,31.2331,False
+Whole Grain | Ham and gherkins | yes,Whole Grain | Yeast spread | no,-29.0,0.3781,-68.7331,10.7331,False
+Whole Grain | Ham and gherkins | yes,Whole Grain | Yeast spread | yes,-18.5,0.9456,-58.2331,21.2331,False
+Whole Grain | Peanut butter | no,Whole Grain | Peanut butter | yes,31.5,0.2537,-8.2331,71.2331,False
+Whole Grain | Peanut butter | no,Whole Grain | Yeast spread | no,11.0,0.9999,-28.7331,50.7331,False
+Whole Grain | Peanut butter | no,Whole Grain | Yeast spread | yes,21.5,0.8332,-18.2331,61.2331,False
+Whole Grain | Peanut butter | yes,Whole Grain | Yeast spread | no,-20.5,0.8789,-60.2331,19.2331,False
+Whole Grain | Peanut butter | yes,Whole Grain | Yeast spread | yes,-10.0,1.0,-49.7331,29.7331,False
+Whole Grain | Yeast spread | no,Whole Grain | Yeast spread | yes,10.5,1.0,-29.2331,50.2331,False
