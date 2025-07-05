@@ -18,5 +18,8 @@ Descriptive Visualizations: Generates bar plots using matplotlib and seaborn to 
 
 
 cd TU-Dortmund-Assignment
+
+
+
 Dependencies:Install the required Python libraries using pip
 
