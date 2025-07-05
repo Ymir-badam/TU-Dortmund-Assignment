@@ -18,6 +18,5 @@ Descriptive Visualizations: Generates bar plots using matplotlib and seaborn to 
 
 
 cd TU-Dortmund-Assignment
-Dependencies:Install the required Python libraries using pip:pip install pandas matplotlib seaborn
-python main.ipynb
+Dependencies:Install the required Python libraries using pip
 
